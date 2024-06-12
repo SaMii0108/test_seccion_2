@@ -63,6 +63,7 @@ while True:
                 lista.append(fila)
     elif op==6:
         print("")
+        print("hola mundo")
     elif op==0:
         print("Saliendo......")
         print("Adios...")
